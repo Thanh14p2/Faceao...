@@ -1,1 +1,1 @@
-
+print("\033[1;34mTOOL DANG BAO TRI")
