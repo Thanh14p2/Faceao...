@@ -1,1 +1,1 @@
-print("\033m[1;35mTOOL ĐANG BẢO TRÌ")
+print("\033[1;35mTOOL ĐANG BẢO TRÌ")
